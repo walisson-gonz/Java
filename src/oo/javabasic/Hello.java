@@ -1,4 +1,4 @@
-package oo.intellij;
+package oo.javabasic;
 
 public class Hello {
     public static void main(String[] args) {

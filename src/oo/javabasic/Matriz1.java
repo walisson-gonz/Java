@@ -1,4 +1,4 @@
-package oo.intellij;
+package oo.javabasic;
 
 import java.util.Scanner;
 
